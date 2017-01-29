@@ -6,7 +6,7 @@ These algorithms were created for my Scientific Computing course (CS 5743) at th
 
 ### Solving Triangular Systems
 
-* Lower Triangular[../Lx_b.m]
+* [Lower Triangular](../Lx_b.m)
 * Upper Triangular : Ux_b.m
 
 ### Decomposition Algorithms
