@@ -4,9 +4,9 @@ The repository contains MATLAB implementations of various useful algorithms in t
 
 These algorithms were created for my Scientific Computing course (CS 5743) at the University of Oklahoma during the Fall 2016 semester.
 
-## Solving Triangular Systems
+### Solving Triangular Systems
 
-* Lower Triangular : Lx_b.m
+* Lower Triangular[../Lx_b.m]
 * Upper Triangular : Ux_b.m
 
 ### Decomposition Algorithms
