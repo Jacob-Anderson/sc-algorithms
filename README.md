@@ -1,6 +1,6 @@
 ## Scientific Computing Algorithms
 
-The repository contains MATLAB implementations of various useful algorithms in the field of Scientific Computing. 
+This repository contains MATLAB implementations of various useful algorithms in the field of Scientific Computing. 
 
 These algorithms were created for a Scientific Computing course (CS 5743) at the University of Oklahoma during the Fall 2016 semester.
 
